@@ -55,4 +55,5 @@ Day 2
 -Generating structured day-by-day plan logic.
 -Writing Streamlit interface skeleton.
 
-
+## link
+https://drive.google.com/file/d/1Vg5a-Y3Lqwli68jay7xaP0HTlfDc-G9P/view?usp=sharing
