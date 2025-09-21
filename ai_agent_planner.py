@@ -1,5 +1,5 @@
-SERPAPI_KEY = "309534325a7a5d3fb904f2587fb9157a4ff5d00fa7367a4edaec417a549e19a8"
-OPENWEATHER_KEY = "f7d2ae2c1be0989a02d6543a3eea0483"
+SERPAPI_KEY = ""
+OPENWEATHER_KEY = ""
 
 import streamlit as st
 import pandas as pd
@@ -113,3 +113,4 @@ for idx, row in df.iterrows():
     st.text(row['plan'])
     st.caption(f"Created at: {row['created_at']}")
     st.markdown("---")
+
